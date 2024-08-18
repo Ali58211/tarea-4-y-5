@@ -1,0 +1,59 @@
+/* background-color: rgba(202, 221, 221, 0.87);
+  background-color: rgb(247, 5, 186);
+  background-color: rgb(5, 29, 247);
+  background-color: rgb(247, 5, 5);
+ */
+ 
+
+.titulo{color: rgb(240, 13, 13);
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+   
+}
+
+
+body{
+    
+    color: rgb(255, 255, 255);
+    background-image: url(./img/pexels-kubiceknov-924824.jpg);
+    background-position: center;
+    background-size: width;
+}
+
+p{
+    font-size: 100% ;
+
+}
+
+
+.menu{
+    
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: row;
+}
+.menu li{
+    border: 1px solid white;
+    display: flex;
+    margin: 10px;
+    padding: 10px
+    
+}
+
+.pagina-1{
+    background-image: url(./img/pexels-kubiceknov-924824.jpg);
+}
+/* footer{
+    background-color: rgb(255, 255, 255);
+    color: black;
+} */
+
+
+/* @media(min-width:992px){
+    
+} */
+
